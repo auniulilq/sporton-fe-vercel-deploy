@@ -4,7 +4,7 @@ const OrderInformation = () => {
     return (
        <CardWithHeader title="Order Information">
         <div className="p-5">
-                <div>
+                <div className="mb-5">
                     <div className="input-group">
                         <label htmlFor="full_name">Full Name</label>
                         <input type="text" placeholder="Type your Full Name" id="full_name" />

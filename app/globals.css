@@ -27,7 +27,7 @@ html {
 }
 
 .input-group label {
-    @apply text-xs mb-1;
+    @apply block text-xs mb-1;
 }
 
 .input-group input,
