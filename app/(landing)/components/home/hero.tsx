@@ -10,8 +10,7 @@ const HeroSection = () => {
                 alt="image sporton"
                 width={432}
                 height={423}
-                className="grayscale absolute left-0 -top-20"
-             />
+                className="grayscale absolute left-0 -top-20"/>
                 <div className="relative ml-40 w-full">
                 <div className="text-primary italic">Friday Sale, 50%
                 </div>
@@ -31,15 +30,13 @@ const HeroSection = () => {
                 alt="image sporton hero"
                 width={700}
                 height={950}
-                className="absolute -right-5 top-1/2 -translate-y-1/2"
-                />
+                className="absolute -right-5 top-1/2 -translate-y-1/2"/>
             </div>
             <Image src="/images/img-ornament-hero.svg"
                 alt="image sporton"
                 width={420}
                 height={420}
-                className="absolute -right-[200px] top-1/2 -translate-y-1/2"
-             />
+                className="absolute -right-[200px] top-1/2 -translate-y-1/2"/>
              </section>
     );
 };
